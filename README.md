@@ -1,3 +1,6 @@
-# lab-2
+# Lab-2
 
-This is lab 2 for itmd 361
+ITMD 361 Lab 2 Submission\
+Harshini Chellasamy\
+\
+This website contains course information for ITMD 361.
