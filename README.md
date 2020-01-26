@@ -1,3 +1,3 @@
 # lab-2
 
-this is a lab for itmd 361
+This is lab 2 for itmd 361
